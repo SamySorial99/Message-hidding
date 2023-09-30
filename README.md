@@ -1,5 +1,5 @@
 # Message-hidding
-Hidding a meesage in a PNG picture using python
+Hidding a message in a PNG picture using python
 This is a project to hide a message in a picture
 this is done by converting the message into a ASCII code 
 then inserting the code into specific pixels in the picture
